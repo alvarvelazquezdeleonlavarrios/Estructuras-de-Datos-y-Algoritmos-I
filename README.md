@@ -4,7 +4,7 @@ Repositorio con algunos de los conceptos vistos en la asignatura EDAI (acrónimo
 
 ## Contenido
 
-A continuación se desglosa el contenido de este repositorio, donde se ven principalmente las estructuras de datos más básicas y fundamentales que se enseñan en la asignatura con sus respectivas implementaciones en algunos lenguajes de programación.
+A continuación se desglosa el contenido de este repositorio, donde se ven principalmente las estructuras de datos más básicas y fundamentales que se enseñan en la asignatura con sus respectivas implementaciones en algunos lenguajes de programación. Los temas se encuentran organizado en carpetas, cada uno con sus respectivas clases a ser utilizadas dentro de las mismas.
 
 **Pilas**
 - Pila
